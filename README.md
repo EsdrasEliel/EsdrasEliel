@@ -164,7 +164,7 @@ Me chamo Esdras Eliel, tenho 25 anos e sou natural de Aracaju-SE. Sou formado em
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasEliel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
